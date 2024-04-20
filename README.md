@@ -78,7 +78,9 @@ endmodule
 ![image](https://github.com/Iswarya0580/SR-FLIPFLOP-USING-CASE/assets/149989171/566bc748-e60f-4ef2-8fa3-0f0f006d2c69)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/Iswarya0580/SR-FLIPFLOP-USING-CASE/assets/149989171/9d0691bf-b459-4b1d-a2d6-99974b0de612)
 
 **RESULTS**
+
 The observation of the simulation results and confirm the successful execution of the program.
